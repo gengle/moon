@@ -41,7 +41,7 @@
     "@types/cytoscape-dagre": "^2.3.4",
     "@types/cytoscape-klay": "^3.1.5",
     "autoprefixer": "^10.4.24",
-    "postcss": "^8.5.6",
+    "postcss": "^8.5.12",
     "tailwindcss": "^3.4.19",
     "vite": "^6.4.1",
     "vite-plugin-css-injected-by-js": "^3.5.2"
