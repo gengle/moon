@@ -44,7 +44,7 @@ tracing = { workspace = true }
 
 # For extism/wastime (keep in sync with proto)
 extism = { workspace = true }
-wasmtime = "~41.0.4"
+wasmtime = "~46.0.3"
 wasi-common = "~41.0.4"
 wiggle = "~41.0.4"
 
